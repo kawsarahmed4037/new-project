@@ -1,0 +1,370 @@
+*{margin:0;padding:0}
+#warpper{
+		
+}
+header #A{
+		width:90%;
+		margin:0 auto;
+	
+		overflow:hidden;
+		background:#2e2e2e;
+	
+}
+header #A #left-A{
+		font-family:book antique;
+		color:#8b8b8b;
+		float:left;
+		margin:12px 0;
+}
+header #right-A{
+		float:right;
+		overflow:hidden;
+}
+header #right-A ul{
+		list-style:none;	
+}
+header #right-A ul li{
+		float:left;
+}
+header #right-A ul li a:last-child{
+		margin-right:0;
+		cursor: pointer;
+		
+}
+header #right-A ul li a{
+	margin:12px;
+	display:block;
+}
+header #right-A ul li a img{}
+/*******************************************************/
+#B{
+		width:90%;
+		margin:0 auto;
+		overflow:hidden;
+		background:#3a3a3a;
+		position:relative;
+		border-bottom:2px solid #515151;
+}
+#B #left-B{
+		float:left;
+	
+}
+#B #left-B h1{
+		text-transform:uppercase;
+		color:#ffff;
+		/*font-size:40px;*/
+		margin:27px 0;
+	
+	
+}
+#B #left-B h1 #span{
+		color:#eea03a;
+		
+}
+#right-B{
+		overflow:hidden;
+		/*float:right;*/
+		
+}
+nav ul{
+		list-style:none;
+		
+		
+	
+}
+
+nav ul li{
+		float:left;
+		margin:20px 0;
+		display:block;
+}
+nav ul li:last-child{
+		border-right:1px solid #616161;
+		
+}
+nav ul li:hover{
+	
+		background:#5ea7f2;
+}
+nav ul a{
+		text-decoration:none;
+		color:#ffff;
+		padding:15px;
+		display:block;	
+		font-family:segoe UI;
+}
+#right-shop{
+		overflow:hidden;
+		/*float:right;*/
+		
+}
+#right-shop img{
+		margin:37px 7px 37px 25px;
+		float:left;
+		display:block;
+		overflow:hidden;
+		cursor: pointer;
+}
+#right-shop img:hover{
+		margin:35px 6px 35px 24px;
+		width:20px;
+	
+}
+#cart{overflow:hidden;
+	color:#fff;
+	margin:39px 25px 39px 7px;
+	display:block;
+	font-size:12px;
+	font-family:segoe UI;
+	float:left;
+	cursor: pointer;
+	
+}
+#cart:hover{
+		margin:39px 25px 39px 7px;
+	
+}
+#submit{
+	overflow:hidden;
+		
+}
+#submit input{/**position:absolute;**/
+		background:#fff;
+		padding:15px 20px;
+		border:none;
+		border-radius:25px;
+		margin:25px 0 25px 15px ;
+		overflow:hidden;
+}
+#submit input:hover{
+		background:#5ea7f2;
+		color:#fff;
+		padding:18px 23px;
+		margin:20px 0 20px 10px ;
+		border-radius:30px;
+		font-weight:bold;
+		cursor: pointer;
+		border:2px solid #fff;
+		
+}
+/*************************************************/
+
+#C{		font-family:myriad pro;
+		width:90%;
+		background-image:url("img/jovs.jpg");
+		margin:0 auto;
+		text-align:center;
+		overflow:hidden;
+		background-repeat:no-repeat;
+		background-size:cover;/********/
+		
+}
+#sub-C{
+		margin:150px 0;
+	
+}
+#C h1{
+		color:#d6a241;
+		font-size:65px;
+		margin:20px 0;
+		font-weight:bold;
+	
+}
+#C p{
+		color:#2d4d86;
+		font-size:20px;
+		font-weight:bold;
+}
+#C p a{
+		text-decoration:none;
+		color:#2d4d86;
+		font-size:25px;
+		font-weight:bold;
+}
+/****************************************************************/
+#warpper4{
+	background:#e3f5f5;
+	
+}
+#left-D {
+		width:50%;
+		
+		float:left;
+		
+}
+#left-Dd{
+		
+		width:75%;
+		margin-left:20%;
+		margin-top:100px;
+		margin-right:5%;
+		overflow:hidding;
+		
+}
+
+#left-D .left-D-h1{
+		font-family:Broadway;
+		margin-bottom:30px;
+}
+#left-D .left-D-p1{
+		color:#fc9003;
+		margin-bottom: 25px;
+		font-weight:bold;
+	
+}
+#left-D .left-D-p2{
+	color:#585757;
+	margin-bottom: 25px;
+	font-weight:bold;
+}
+#left-Dd .left-D-rest{
+		width:27%;
+		overflow:hidding;
+		
+	
+	
+}
+#left-Dd .left-D-rest h2{
+		padding:5px 0;
+		position:relative;
+		display:inline-block;
+		font-family:Segoe Script;
+}
+
+#left-Dd .left-D-rest h2:before{
+		content:"";
+		position:absolute;
+		background:#dbdada;
+		width:50%;
+		height:6%;
+		top:100%;
+		left:0;
+		
+}
+.left-Ddd{
+		margin-top:80px;
+		overflow:hidden;/**eta cara margin top kaj korena**/
+}
+
+.left-D-m-logo{
+	background:#f99e26;
+	float:left;
+	border-radius:100%;
+	overflow:hidden;
+	margin-right:40px;
+	
+}
+.left-D-m-logo img{
+	padding:12px;
+}
+.left-D-h3{
+	margin:15px 0px;
+	overflow:hidden;
+	margin-left:10px;
+	position:relative;
+
+	
+	
+}
+.left-D-h3 h3{
+	
+}
+.left-D-h3 h4:before{
+		content:"";
+		position:absolute;
+		background:#dbdada;
+		width:73%;
+		height:1px;
+		top:50%;
+		margin-left:28%;
+}
+
+.left-D-p3{
+	color:#585757;
+	margin:0 0 60px 92px;
+	font-weight:bold;
+}
+
+/*******/
+
+.right-D{
+	width:50%;
+	overflow:hidden;
+}
+#right-Dd{
+	margin-top:70px;
+	overflow:hidden;
+	
+}
+.right-D img{
+		width:86%;
+		margin-left:14%;
+	
+	
+}
+.right-Ddd{
+	overflow:hidden;/**eta cara margin top kaj korena*****/
+	margin-top:80px;
+	margin-right:25%;
+	
+	
+}
+.right-D-m-logo{
+	background:#f99e26;
+	float:left;
+	border-radius:100%;
+	overflow:hidden;
+	margin-right:40px
+}
+.right-D-h3{
+	
+}
+
+.right-D-h3{
+	margin:15px 0px;
+	overflow:hidden;
+	margin-left:10px;
+	position:relative;
+}
+.right-D-h3 h4{
+
+}
+.right-D-h3 h4:before{
+		content:"";
+		position:absolute;
+		background:#dbdada;
+		width:76%;
+		height:1px;
+		top:50%;
+		margin-left:24%;
+}
+
+.right-D-m-logo img{
+		width:30px;
+		padding:12px;
+		margin-left:0;
+		
+}
+.right-D-p1{
+		color:#585757;
+	margin:0 0 60px 92px;
+	font-weight:bold;
+}
+/********************************************************************/
+.F{width:100%;
+
+overflow:hidden;/**keno dite hobe**/
+
+}
+.left-F-img{
+		float:left;
+		/**width:50%;***eta dilei jamela****/
+		
+	
+}
+#right-F{
+	margin-top:60px;
+	overflow:hidden;
+	background:reg;
+}
+/***************************************************************/
